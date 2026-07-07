@@ -1,0 +1,42 @@
+{
+  "identifier": "streamcost",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Streamcost Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "streamcost_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks cost-per-watch-hour estimate and usage worthiness rating.",
+              "displayName": "Streamcost Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "streamcost_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Streamcost Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
